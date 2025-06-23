@@ -3,6 +3,7 @@ Time series forecasting of Tesla stock price using ARIMA and SARIMA models with 
 # Tesla Stock Price Time Series Forecasting
 
 This project applies classical time series forecasting models—**ARIMA** and **SARIMA**—to predict the stock price movements of **Tesla Inc. (TSLA)** using daily closing price data.
+Stock Dataset was scraped from the web using Alpha Vantage
 
 ## Objectives
 
